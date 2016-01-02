@@ -1,0 +1,79 @@
+[
+
+  
+  {"city":"Kyiv","country":"UA","region":"Left bank of the city","email":"nicholas.sorokin@gmail.com","github":"40in","couchsurfing":"nicholas-sorokin","relative_path":"_couches/40in.md","url":"/couches/40in.html","json":"/couches/40in.json"},
+  
+  {"github":"abhshkdz","twitter":"abhshkdz","email":"das.abhshk@gmail.com","website":"http://abhishekdas.com","facebook":"abhshkdz","reddit":"abhshkdz","city":"Blacksburg","country":"US","region":"University Terrace","name":"Abhishek Das","relative_path":"_couches/abhshkdz.md","url":"/couches/abhshkdz.html","json":"/couches/abhshkdz.json"},
+  
+  {"github":"ac2zoom","twitter":"ac2zoom","email":"ac2zoom@uw.edu","website":"https://www.about.me/Ac2zoom","facebook":"ac2zoom","city":"Seattle","country":"US","region":"University District","name":"Akshay Chalana","relative_path":"_couches/ac2zoom.md","url":"/couches/ac2zoom.html","json":"/couches/ac2zoom.json"},
+  
+  {"github":"worldadventurer","twitter":"rraavvii","email":"RaviA@engageSPARK.com","website":"https://www.engageSPARK.com","facebook":"rraavvii","city":"Cebu","country":"PH","name":"Ravi","relative_path":"_couches/adventurer.md","url":"/couches/adventurer.html","json":"/couches/adventurer.json"},
+  
+  {"github":"akimc","twitter":"akimqc","email":"grand.requin.blanc+hackercouch@gmail.com","city":"Quebec City","country":"CA","region":"St-Nicolas","name":"Akim Couture","relative_path":"_couches/akimc.md","url":"/couches/akimc.html","json":"/couches/akimc.json"},
+  
+  {"github":"raudaschl","twitter":"raudaschl","email":"raudaschl@hotmail.co.uk","website":"http://www.iam46.com","facebook":null,"city":"London","country":"GB","name":"Adrian","relative_path":"_couches/araud.md","url":"/couches/araud.html","json":"/couches/araud.json"},
+  
+  {"github":"kprovost","email":"kristof@sigsegv.be","website":"http://www.sigsegv.be/","city":"Grimbergen","country":"BE","relative_path":"_couches/arthur.md","url":"/couches/arthur.html","json":"/couches/arthur.json"},
+  
+  {"github":"bithavoc","twitter":"bithavoc","email":"im@bithavoc.io","website":"http://bithavoc.io","facebook":"thepumpkin1979","city":"Medellin","country":"CO","region":"El Poblado","name":"Johan Hernández","relative_path":"_couches/bithavoc.md","url":"/couches/bithavoc.html","json":"/couches/bithavoc.json"},
+  
+  {"name":"Bryan Richter","city":"Portland, OR","country":"US","region":"Downtown","github":"chreekat","twitter":"chreekat","email":"b@chreekat.net","website":"http://www.chreekat.net/","facebook":"chreekat","reddit":"chreekat","couchsurfing":"chreekat","bewelcome":"chreekat","trustroots":"chreekat","warmshowers":26423,"relative_path":"_couches/chreekat.md","url":"/couches/chreekat.html","json":"/couches/chreekat.json"},
+  
+  {"github":"chtotalism","twitter":"chtotalism","email":"list@totalism.org","website":"http://totalism.org","city":"Mala (Lanzarote)","country":"ES","region":"Las Palmas","relative_path":"_couches/cht_hackbase.md","url":"/couches/cht_hackbase.html","json":"/couches/cht_hackbase.json"},
+  
+  {"github":"deobald","twitter":"deobald","email":"steven@nilenso.com","website":"http://blog.deobald.ca","facebook":"steven.deobald","city":"Bangalore","country":"IN","region":"Cooke Town","name":"Steven Deobald","relative_path":"_couches/deobald.md","url":"/couches/deobald.html","json":"/couches/deobald.json"},
+  
+  {"github":"egegunes","email":"egegunes@gmail.com","city":"Istanbul","country":"TR","name":"Ege Gunes","relative_path":"_couches/egegunes.md","url":"/couches/egegunes.html","json":"/couches/egegunes.json"},
+  
+  {"name":"Elia","city":"Langnau","country":"CH","region":"Bern","email":"hackercouch@eliabieri.com","github":"eliabieri","twitter":"eliabieri","relative_path":"_couches/eliabieri.md","url":"/couches/eliabieri.html","json":"/couches/eliabieri.json"},
+  
+  {"github":"guilhermeasg","twitter":"guilhermea","email":"guilhermea@tuta.io","website":"http://guilhermea.ga","reddit":"guilhermeaugusto","city":"São Carlos","country":"br","relative_path":"_couches/guilhermea.md","url":"/couches/guilhermea.html","json":"/couches/guilhermea.json"},
+  
+  {"name":"Julio Batista Silva","city":"São Carlos","country":"BR","email":"julio@juliobs.com","github":"jbsilva","twitter":"6jj","website":"http://juliobs.com","facebook":"juliobs","couchsurfing":"juliob91","relative_path":"_couches/jbsilva.md","url":"/couches/jbsilva.html","json":"/couches/jbsilva.json"},
+  
+  {"name":"Jeremy","city":"Sydney","country":"AU","github":"jeznag","twitter":"jeznag","relative_path":"_couches/jeremy.md","url":"/couches/jeremy.html","json":"/couches/jeremy.json"},
+  
+  {"name":"Kovalam Ezhuthu Kalari","city":"Thiruvananthapuram","country":"IN","region":"Poonkulam","email":"hello@kek.org.in","twitter":"kekorgin","website":"http://www.kek.org.in/","relative_path":"_couches/kekorgin.md","url":"/couches/kekorgin.html","json":"/couches/kekorgin.json"},
+  
+  {"github":"kevinmcalear","twitter":"kevinmcalear","email":"kevin.mcalear@gmail.com","website":"http://kevinmcalear.com/","facebook":"KPMcAlear","city":"Seattle","country":"US","name":"Kevin & Sarah McAlear","relative_path":"_couches/kevin_and_sarah.md","url":"/couches/kevin_and_sarah.html","json":"/couches/kevin_and_sarah.json"},
+  
+  {"name":"Antti Siponen","city":"Schaffhausen","country":"CH","region":"Schaffhausen","email":"antti.siponen@iki.fi","github":"lantti","couchsurfing":"siponen","bewelcome":"lantti","trustroots":"lantti","warmshowers":"siponen","relative_path":"_couches/lantti.md","url":"/couches/lantti.html","json":"/couches/lantti.json"},
+  
+  {"github":"lut4rp","twitter":"prat_l","email":"pratul@uncommon.is","city":"Bangalore","country":"IN","region":"Cooke Town","name":"Pratul Kalia","relative_path":"_couches/lut4rp.md","url":"/couches/lut4rp.html","json":"/couches/lut4rp.json"},
+  
+  {"name":"Max Stoiber","city":"Vienna","country":"AT","region":"Central","email":"contact@mxstbr.com","github":"mxstbr","twitter":"mxstbr","website":"http://mxstbr.com","relative_path":"_couches/mxstbr.md","url":"/couches/mxstbr.html","json":"/couches/mxstbr.json"},
+  
+  {"name":"n","city":"New York","country":"US","region":"Manhattan","email":"iamnotnader@gmail.com","github":"iamnotnader","facebook":"iamnotnader","relative_path":"_couches/n.md","url":"/couches/n.html","json":"/couches/n.json"},
+  
+  {"github":"captn3m0","twitter":"captn3m0","email":"me@captnemo.in","website":"https://captnemo.in","reddit":"vim_vs_emacs","city":"Bangalore","country":"IN","region":"Koramangala","relative_path":"_couches/nemo.md","url":"/couches/nemo.html","json":"/couches/nemo.json"},
+  
+  {"github":"BeOleg","email":"hellgy@gmail.com","facebook":"hellgy","twitter":"iooleg","city":"Berlin","country":"DE","relative_path":"_couches/oleg.md","url":"/couches/oleg.html","json":"/couches/oleg.json"},
+  
+  {"github":"polurupraveen","twitter":"prvn_30","email":"polurupraveen@gmail.com","website":null,"facebook":"prvn30","reddit":null,"city":"Hyderabad","country":"IN","region":"Manikonda","name":"Praveen Kumar","relative_path":"_couches/prvn30.md","url":"/couches/prvn30.html","json":"/couches/prvn30.json"},
+  
+  {"city":"Bangalore","country":"IN","email":"punchagan@muse-amuse.in","github":"punchagan","twitter":"punchagan","website":"http://punchagan.muse-amuse.in","relative_path":"_couches/punchagan.md","url":"/couches/punchagan.html","json":"/couches/punchagan.json"},
+  
+  {"github":"rjaus","twitter":"bedroomprotst","email":"rj@rileyjames.co","city":"Melbourne","country":"AU","region":"Carlton","name":"Riley James","relative_path":"_couches/rj-bedroomprotester.md","url":"/couches/rj-bedroomprotester.html","json":"/couches/rj-bedroomprotester.json"},
+  
+  {"github":"simison","twitter":"simison","email":"mikael@ihminen.org","website":"http://www.mikaelkorpela.fi/","facebook":"mikael.korpela","reddit":"simison","couchsurfing":"simison","bewelcome":"mikael","trustroots":"mikael","warmshowers":41473,"city":"Vilnius","country":"LT","name":"Mikael Korpela","relative_path":"_couches/simison.md","url":"/couches/simison.html","json":"/couches/simison.json"},
+  
+  {"github":"brianpetro","twitter":"brianpetro_","email":"brian@plexm.com","website":"http://www.plexm.com","facebook":"BrianPlex","reddit":"brianpetro","city":"Tampa","country":"US","region":"University of South Florida","name":"Brian Petro","relative_path":"_couches/tampa_brian_petro.md","url":"/couches/tampa_brian_petro.html","json":"/couches/tampa_brian_petro.json"},
+  
+  {"name":"Max S. Feinberg","city":"Monterrey","country":"MX","region":"Nuevo Leon","email":"thelastinuit@bravarianpawstudios.com","github":"thelastinuit","twitter":"thelastinuit","website":"http://www.bravarianpawstudios.com","facebook":"thelastinuit","reddit":"thelastinuit","couchsurfing":"MaxSFeinberg","bewelcome":"thelastinuit","trustroots":"thelastinuit","warmshowers":107638,"relative_path":"_couches/thelastinuit.md","url":"/couches/thelastinuit.html","json":"/couches/thelastinuit.json"},
+  
+  {"github":"tonocm","twitter":"tonocardenasm","email":"antonio@hcardenas.com","website":"http://hcardenas.com","city":"Rochester","country":"US","region":"NY","name":"Antonio","relative_path":"_couches/tonocm.md","url":"/couches/tonocm.html","json":"/couches/tonocm.json"},
+  
+  {"github":"tritao","twitter":"tritonpt","email":"joao@tritao.eu","website":"http://tritao.eu","reddit":"tritao","city":"Lisbon","country":"PT","name":"João Matos","relative_path":"_couches/tritao.md","url":"/couches/tritao.html","json":"/couches/tritao.json"},
+  
+  {"github":"ppaeps","email":"philip@trouble.is","website":"https://trouble.is/","city":"Leuven","country":"BE","relative_path":"_couches/trouble.md","url":"/couches/trouble.html","json":"/couches/trouble.json"},
+  
+  {"github":"eschaefer","twitter":"ultrasandwich","email":"omg@eric-schaefer.com","website":"https://eric-schaefer.com","city":"Berlin","country":"de","region":"Neukölln","relative_path":"_couches/ultrasandwich.md","url":"/couches/ultrasandwich.html","json":"/couches/ultrasandwich.json"},
+  
+  {"github":"vallettea","twitter":"vallettea","email":"vallettea@gmail.com","website":"http://ants.builders","city":"Bordeaux","country":"FR","region":"Gironde","name":"Alexandre Vallette","relative_path":"_couches/vallettea.md","url":"/couches/vallettea.html","json":"/couches/vallettea.json"},
+  
+  {"twitter":"wikiBudgets","email":"daniel@wikiBudgets.org","website":"http://wikibudgets.org/","city":"Prague","country":"CZ","region":"Kosire","name":"Daniel Sedlacek","relative_path":"_couches/wikiBudgets.md","url":"/couches/wikiBudgets.html","json":"/couches/wikiBudgets.json"},
+  
+  {"github":"zah","email":"zahary@gmail.com","city":"Sofia","country":"BG","region":"City Center","relative_path":"_couches/zah.md","url":"/couches/zah.html","json":"/couches/zah.json"},
+  
+  {"github":"zensavona","twitter":"zensavona","email":"tedelex06@gmail.com","website":"https://zen.id.au","facebook":"zenbrah","city":"Berlin","country":"DE","name":"Zen","relative_path":"_couches/zen.md","url":"/couches/zen.html","json":"/couches/zen.json"}
+]
